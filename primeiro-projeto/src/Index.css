@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+    -webkit-font-smoothing: antialiased;
+    min-width: 320;
+}
+
+/* Padrão para toda a aplicação */
+* {
+    box-sizing: border-box;
+}
+
+/* Definição de variáveis que serão relacionadas as cores da aplicação */
+:root {
+    --primary: #1b9bf0;
+    --primary-Light: #8ecdf7;
+    --primary-text: #0f1419;
+    --second-text: #536471;
+    --border: #cfd9de;
+    
+}
